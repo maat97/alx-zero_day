@@ -1,2 +1,3 @@
 #!/bin/bash
 vi up_to_date
+git pull
